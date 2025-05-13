@@ -1,67 +1,91 @@
-<h1 align="center">Hi there, I'm Quayyum Ariyo 👋</h1>
+<h1 align="center">Hey there, I'm Quayyum Ariyo 👋</h1>
 <p align="center">
-  <strong>Aspiring Software Engineer | Back-End Developer | Tech Innovator</strong><br>
-  Passionate about building impactful solutions using Java, Python, and JavaScript
+  <b>Aspiring Software Engineer | Problem Solver | Privacy-First Builder</b><br>
+  <i>Dreaming big, learning daily, and building boldly 🚀</i>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🎓 Student at **Semicolon Africa**, training to become a world-class **software engineer**
-- 💻 Focused on **Back-End Development** using **Java (JDK 21+)**
-- 💡 Passionate about solving real-world problems through clean code and creative thinking
-- 🎯 Dream: Join **NVIDIA** and build future-defining tech
-- 🧠 Learning: UML, OOP, DSA, Full-Stack Development, Frontend Design (HTML & CSS)
-- 🎮 I love **games**, 🥁 **music**, ⚽ **sports**, and living life to the fullest
+Hi, I'm **Quayyum**, a Nigerian software engineer in training at **Semicolon Africa**, currently mastering the art of **back-end development** using:
 
----
+- Java (JDK 21)
+- Python
+- JavaScript
+- MySQL & MongoDB
+- C++, HTML, & CSS
 
-### 🛠️ Skills & Tools
-
-- **Languages:** Java | Python | JavaScript  
-- **Frameworks & Concepts:** OOP | MVC | SaaS | Privacy-Centric App Design  
-- **Tools:** Git | GitHub | VS Code | Durable | UML | LeetCode | HackerRank  
-- **Other:** API Integration | System Design | AI-Assisted Tools  
+I'm passionate about building **smart, human-centered platforms** that solve **real-world problems**—especially those focused on **privacy**, **AI integration**, and **impactful design**.
 
 ---
 
-### 🔨 Current Projects
+### 🛠️ Current Projects
 
-#### 🟣 [ONCE App](#)
-> A privacy-focused, self-destructing message app built with **Java**.  
-> Features: no phone number login, real-time chat, credit-unlock for expired messages, screenshot prevention, and timer-based message deletion.
+#### 🔐 ONCE App  
+> A **privacy-first real-time messaging app** with self-destructing messages, no phone number login, and credit-based message unlocking.
 
-#### 🥗 WasteLess
-> An AI-powered expiry tracker that suggests recipes, notifies users about soon-to-expire items, and helps them donate food to local food banks.
+#### 🧠 WasteLess  
+> An **AI-powered food expiry manager** that tracks food items, suggests recipes, and connects users to local food donation banks.
 
-#### 🚚 FreshTruck (Farm-to-City Transport)
-> A climate-controlled smart truck concept that keeps food fresh using adaptive tech, designed to fight hunger and food waste.
-
-#### 🔥 Firearm (Website)
-> A smart, responsive website made with **Durable**, as I learn **HTML** and **CSS** mastery.
+#### 🚛 FreshTruck  
+> An **eco-friendly food distribution** idea using adaptive smart trucks to deliver nutritious produce while minimizing waste and cost.
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 The Engineer I Strive to Be
+
+✅ I solve problems creatively  
+✅ I explain complex ideas like I'm teaching a 5-year-old  
+✅ I code every day to grow stronger  
+✅ I believe privacy, simplicity, and clarity are superpowers  
+✅ I live fully: 🎮 Gaming | 🎵 Music | ⚽ Sports | 🌱 Wellness  
+
+---
+
+### 🧩 Skills & Stack
+
+- **Languages:** Java, Python, JavaScript, C++, HTML, CSS  
+- **Databases:** MySQL, MongoDB  
+- **Concepts:** OOP, DSA, MVC, System Design, API Integration  
+- **Tools:** Git, GitHub, VS Code, Durable  
+- **Soft Skills:** Clear Communication, Teamwork, Leadership, Focus
+
+---
+
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Quayyum-a&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quayyum-a&theme=radical" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 🎯 Goals
 
-- 📧 Open to collaboration and ideas: **Your vision + My code = Magic**
-- 📆 Birthday: **November 14**
-- 🧠 Favorite motto: *“If it can be imagined, it can be coded.”*
+- 🔬 Work at **NVIDIA** and contribute to next-gen innovation  
+- 🧠 Master **full-stack development**, starting from back-end  
+- 🛠️ Launch apps that **reshape communication, food sustainability, and user privacy**  
+- 🕹️ Build game-inspired tools and platforms that are **useful, joyful, and impactful**
 
 ---
 
+### 🌟 Quote I Live By
+
+> *“If it can be imagined, it can be coded.”*  
+> — Me, probably while sipping coffee at 2 AM ☕
+
+---
+
+### 🤝 Let’s Collaborate
+
+- Got an idea that can change the world?
+- Need a backend dev to bring your vision to life?
+- Just want to vibe on tech, design, or creativity?
+
+📬 Reach out. Let’s build magic. 💡  
 <p align="center">
-  <em>“Learning daily. Building boldly. Living fully.”</em><br><br>
-  🧩 <strong>Let's build something amazing together.</strong>
+  <img src="https://img.shields.io/badge/-Let's%20Connect-blueviolet?style=for-the-badge&logo=github" />
 </p>
