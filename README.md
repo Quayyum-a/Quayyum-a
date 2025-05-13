@@ -57,8 +57,6 @@ I'm passionate about building **smart, human-centered platforms** that solve **r
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quayyum-a&theme=radical" />
 </p>
 
 ---
