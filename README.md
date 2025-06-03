@@ -1,59 +1,94 @@
-<h1 align="center">Hey there, I'm Quayyum Ariyo 👋</h1>
+# Hey there, I'm Quayyum Ariyo 👋
 <p align="center">
-  <b>Aspiring Software Engineer | Problem Solver | Privacy-First Builder</b><br>
-  <i>Dreaming big, learning daily, and building boldly 🚀</i>
+  <b>Software Engineer | Full-Stack Developer | Innovator</b><br>
+  <i>Crafting scalable, impactful solutions with a focus on privacy and AI 🌟</i>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-Hi, I'm **Quayyum**, a Nigerian software engineer in training at **Semicolon Africa**, currently mastering the art of **back-end development** using:
+I'm **Quayyum Ariyo**, a dedicated **Software Engineer** based in **Lagos, Nigeria**, with a passion for building **scalable, privacy-first applications**. Currently training at **Semicolon Africa**, I specialize in **full-stack development**, **system architecture**, and **team leadership**. My expertise spans **Java**, **Python**, **JavaScript**, and modern frameworks, with a focus on creating **AI-integrated platforms** and solving real-world challenges through innovative technology.
 
-- Java (JDK 21)
-- Python
-- JavaScript
-- MySQL & MongoDB
-- C++, HTML, & CSS
-
-I'm passionate about building **smart, human-centered platforms** that solve **real-world problems**—especially those focused on **privacy**, **AI integration**, and **impactful design**.
+📍 **Location**: Lagos, Nigeria  
+📧 **Email**: [quayyumariyo@gmail.com](mailto:quayyumariyo@gmail.com) | [quayyum@semicolon.africa](mailto:quayyum@semicolon.africa)  
+📞 **Phone**: [+2348066025051](tel:+2348066025051)  
+🔗 **LinkedIn**: [quayyum-ariyo](https://www.linkedin.com/in/quayyum-ariyo-153b2431b/)  
+🌐 **GitHub**: [Quayyum-a](https://github.com/Quayyum-a)
 
 ---
 
-### 🛠️ Current Projects
+## 🛠️ Professional Experience
 
-#### 🔐 ONCE App  
-> A **privacy-first real-time messaging app** with self-destructing messages, no phone number login, and credit-based message unlocking.
-
-#### 🧠 WasteLess  
-> An **AI-powered food expiry manager** that tracks food items, suggests recipes, and connects users to local food donation banks.
-
-#### 🚛 FreshTruck  
-> An **eco-friendly food distribution** idea using adaptive smart trucks to deliver nutritious produce while minimizing waste and cost.
+### Team Lead – Software Development  
+**Lawo Technologies** | Lagos, Nigeria | Jan 2022 – Present  
+- Led the design and implementation of **backend services** and **RESTful API integrations** for client-facing platforms.  
+- Managed **agile workflows**, ensuring timely delivery and high-quality code through **code reviews**.  
+- Mentored **junior developers**, promoting collaboration and knowledge-sharing across teams.
 
 ---
 
-### 🚀 The Engineer I Strive to Be
+## 🚀 Key Projects
 
-✅ I solve problems creatively  
-✅ I explain complex ideas like I'm teaching a 5-year-old  
-✅ I code every day to grow stronger  
-✅ I believe privacy, simplicity, and clarity are superpowers  
-✅ I live fully: 🎮 Gaming | 🎵 Music | ⚽ Sports | 🌱 Wellness  
+### 🔐 ONCE – Medical Inventory Management System  
+- Built a **full-stack application** using **Flask**, **Jinja2**, and **MySQL** to manage hospital drug and consumable inventory.  
+- Implemented **QR-based verification** to ensure drug authenticity and combat counterfeit medication.  
+- Streamlined inventory processes with a focus on efficiency and scalability.
+
+### 🧠 WasteLess – Food Waste Reduction Platform  
+- Developed a **web platform** with **FastAPI** and **PostgreSQL** to connect food donors with NGOs.  
+- Created **user dashboards**, **donation workflows**, and **real-time inventory logs** with automated notifications.  
+- Promoted sustainability by reducing food waste through accessible technology.
+
+### 🚛 FreshTruck – Logistics Optimization System  
+- Designed a **delivery tracking and scheduling system** for fresh produce suppliers.  
+- Implemented **route optimization algorithms**, reducing delivery times by **30%**.  
+- Integrated **real-time updates** using **JavaScript** and **RESTful APIs** for seamless logistics management.
 
 ---
 
-### 🧩 Skills & Stack
+## 🎓 Education & Certifications
 
-- **Languages:** Java, Python, JavaScript, C++, HTML, CSS  
-- **Databases:** MySQL, MongoDB  
-- **Concepts:** OOP, DSA, MVC, System Design, API Integration  
-- **Tools:** Git, GitHub, VS Code, Durable  
-- **Soft Skills:** Clear Communication, Teamwork, Leadership, Focus
+### Software Engineering Certification  
+**Semicolon Africa** | Lagos, Nigeria | Expected 2025  
+- Intensive training in **Full Stack Development**, **System Design**, and **Agile Methodologies**.  
+- Focused on **AI integration**, **architectural design patterns**, and practical software engineering.
+
+### Certifications  
+- **Hexagonal Architecture & Domain-Driven Design** (Self-Study & Implementation)  
+- **Git & Version Control** – Practical Projects  
+- **Agile Scrum Fundamentals**
 
 ---
 
-### 📈 GitHub Activity
+## 🧩 Skills & Stack
+
+### Technical Skills  
+- **Languages**: Java, Python, JavaScript, C++, HTML, CSS  
+- **Frameworks & Libraries**: Flask, FastAPI, SQLAlchemy, Jinja2  
+- **Databases**: MySQL, MongoDB, PostgreSQL  
+- **Tools**: Git, GitHub, VS Code  
+- **Concepts**: Object-Oriented Design, Hexagonal Architecture, RESTful APIs, Agile Development, Software Testing, System Design  
+
+### Non-Technical Skills  
+- **Team Leadership** & Mentorship  
+- **Analytical Thinking** & Strategic Problem Solving  
+- **Technical Documentation** & Clear Communication  
+- **Project Management** & Cross-Team Collaboration  
+
+---
+
+## 🤝 Volunteer Involvement
+
+### Community Tech Mentor  
+**Semicolon Africa** | Lagos, Nigeria | 2024 – Present  
+- Guided junior developers in **Python**, **Git**, and **debugging practices**.  
+- Led **code-along sessions** and reviewed **architecture** for student capstone projects.  
+- Empowered aspiring engineers to build practical, impactful solutions.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&theme=radical" />
@@ -61,29 +96,29 @@ I'm passionate about building **smart, human-centered platforms** that solve **r
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 
-- 🔬 Work at **NVIDIA** and contribute to next-gen innovation  
-- 🧠 Master **full-stack development**, starting from back-end  
-- 🛠️ Launch apps that **reshape communication, food sustainability, and user privacy**  
-- 🕹️ Build game-inspired tools and platforms that are **useful, joyful, and impactful**
-
----
-
-### 🌟 Quote I Live By
-
-> *“If it can be imagined, it can be coded.”*  
-> — Me, probably while sipping coffee at 2 AM ☕
+- 🔬 Join a cutting-edge team like **NVIDIA** to drive innovation in AI and technology.  
+- 🧠 Excel in **full-stack development** with a strong foundation in backend systems.  
+- 🛠️ Develop **privacy-first applications** that transform healthcare, sustainability, and communication.  
+- 🌍 Create solutions that are **impactful, user-friendly**, and **scalable**.
 
 ---
 
-### 🤝 Let’s Collaborate
+## 🌟 Quote I Live By
 
-- Got an idea that can change the world?
-- Need a backend dev to bring your vision to life?
-- Just want to vibe on tech, design, or creativity?
+> *“Code is the bridge between imagination and reality.”*  
+> — Quayyum Ariyo, likely during a late-night coding session ☕
 
-📬 Reach out. Let’s build magic. 💡  
+---
+
+## 🤝 Let’s Connect
+
+- Have a vision for **healthcare**, **sustainability**, or **privacy-focused tech**?  
+- Need a **full-stack developer** to turn ideas into reality?  
+- Want to geek out over **code**, **design**, or **innovation**?  
+
+📬 **Drop me a line**—let’s create something game-changing! 💡  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Let's%20Connect-blueviolet?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Quayyum-a"><img src="https://img.shields.io/badge/-Let's%20Connect-blueviolet?style=for-the-badge&logo=github" /></a>
 </p>
