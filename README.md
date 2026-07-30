@@ -10,14 +10,10 @@
 </p>
 
 <p align="center">
-  <!-- TODO: replace with your real portfolio URL -->
-  <a href="https://your-portfolio-url.example"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=flat-square&logo=googlechrome&logoColor=35B8A6" alt="Portfolio" /></a>
-  <!-- TODO: replace with your real LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=flat-square&logo=linkedin&logoColor=35B8A6" alt="LinkedIn" /></a>
-  <!-- TODO: replace with your real email -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=flat-square&logo=gmail&logoColor=35B8A6" alt="Email" /></a>
-  <!-- TODO: replace USERNAME with your GitHub handle everywhere in this file -->
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0f7a4c&style=flat-square" alt="Profile views" />
+  <a href="https://quayyumsportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=flat-square&logo=googlechrome&logoColor=35B8A6" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/quayyum-ariyo-81659337a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcTrRGbWxQ9G%2BdsaNriIxWg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=flat-square&logo=linkedin&logoColor=35B8A6" alt="LinkedIn" /></a>
+  <a href="mailto:quayyumariyo@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=flat-square&logo=gmail&logoColor=35B8A6" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Quayyum-a&label=Profile%20Views&color=0f7a4c&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -169,25 +165,24 @@ Built a video series breaking down DeFi attack mechanics — reentrancy, oracle 
 
 ### 📊 GitHub Analytics
 
-<!-- TODO: replace USERNAME with your GitHub handle in every URL below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0&icon_color=35B8A6" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0" alt="Top languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0&icon_color=35B8A6" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quayyum-a&layout=compact&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0B0E14&color=9AAAC0&line=35B8A6&point=E3A548&area=true&area_color=0F7A4C&hide_border=true" alt="Activity graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quayyum-a&bg_color=0B0E14&color=9AAAC0&line=35B8A6&point=E3A548&area=true&area_color=0F7A4C&hide_border=true" alt="Activity graph" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&background=0B0E14&ring=35B8A6&fire=E3A548&currStreakLabel=E9EDF2&stroke=16202C&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quayyum-a&background=0B0E14&ring=35B8A6&fire=E3A548&currStreakLabel=E9EDF2&stroke=16202C&hide_border=true" alt="Streak stats" />
 </p>
 
 <details>
 <summary>Trophies</summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Quayyum-a&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 </details>
 
@@ -211,18 +206,15 @@ Beyond the code: bodyweight training, FC 26, film, and music.
 Open to Full-Stack / Backend Engineer roles (React, Node.js/NestJS, TypeScript) in Lagos, hybrid-friendly — and always glad to talk trust infrastructure, offline-first design, or building for Nigeria's informal economy.
 
 <p align="center">
-  <!-- TODO: replace with your real portfolio URL -->
-  <a href="https://your-portfolio-url.example"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=flat-square&logo=googlechrome&logoColor=35B8A6" alt="Portfolio" /></a>
-  <!-- TODO: replace with your real LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=flat-square&logo=linkedin&logoColor=35B8A6" alt="LinkedIn" /></a>
-  <!-- TODO: replace with your real X/Twitter handle, or delete this line -->
-  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-0B0E14?style=flat-square&logo=x&logoColor=35B8A6" alt="X" /></a>
-  <!-- TODO: replace with your real email -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=flat-square&logo=gmail&logoColor=35B8A6" alt="Email" /></a>
-  <!-- TODO: replace with a real Calendly link, or delete this line -->
-  <a href="https://calendly.com/your-handle"><img src="https://img.shields.io/badge/Book_a_call-0B0E14?style=flat-square&logo=googlecalendar&logoColor=E3A548" alt="Calendly" /></a>
+  <!-- Add X/Twitter and Calendly badges here when you have those links -->
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:0F7A4C&height=100&section=footer" width="100%" alt="" />
+</p>
+
+<!-- Add snake animation below after first successful workflow run -->
+<p align="center">
+  ![Snake animation](https://raw.githubusercontent.com/Quayyum-a/Quayyum-a/output/snake.svg)
+</p>
 </p>
