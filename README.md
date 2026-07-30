@@ -169,6 +169,9 @@ Built a video series breaking down DeFi attack mechanics — reentrancy, oracle 
   <img src="https://github-readme-stats.vercel.app/api?username=Quayyum-a&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0&icon_color=35B8A6" alt="GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quayyum-a&layout=compact&hide_border=true&bg_color=0B0E14&title_color=E9EDF2&text_color=9AAAC0" alt="Top languages" width="49%" />
 </p>
+<p align="center">
+  <em>GitHub analytics will populate once public repositories are added to this profile.</em>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quayyum-a&bg_color=0B0E14&color=9AAAC0&line=35B8A6&point=E3A548&area=true&area_color=0F7A4C&hide_border=true" alt="Activity graph" width="98%" />
