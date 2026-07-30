@@ -220,4 +220,3 @@ Open to Full-Stack / Backend Engineer roles (React, Node.js/NestJS, TypeScript) 
 <p align="center">
   ![Snake animation](https://raw.githubusercontent.com/Quayyum-a/Quayyum-a/output/snake.svg)
 </p>
-</p>
