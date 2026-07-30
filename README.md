@@ -175,7 +175,7 @@ Built a video series breaking down DeFi attack mechanics — reentrancy, oracle 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quayyum-a&background=0B0E14&ring=35B8A6&fire=E3A548&currStreakLabel=E9EDF2&stroke=16202C&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quayyum-a&background=0B0E14&ring=35B8A6&fire=E3A548&currStreakLabel=E9EDF2&stroke=E9EDF2&hide_border=true" alt="Streak stats" />
 </p>
 
 <details>
