@@ -218,5 +218,7 @@ Open to Full-Stack / Backend Engineer roles (React, Node.js/NestJS, TypeScript) 
 
 <!-- Add snake animation below after first successful workflow run -->
 <p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Quayyum-a/Quayyum-a/output/snake.svg)
+  <a href="https://raw.githubusercontent.com/Quayyum-a/Quayyum-a/output/snake.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Quayyum-a/Quayyum-a/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
+  </a>
 </p>
